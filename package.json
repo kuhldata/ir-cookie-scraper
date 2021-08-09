@@ -1,0 +1,23 @@
+{
+  "name": "ir-cookie-scraper",
+  "version": "1.0.1",
+  "description": "Small package to scrape a cookie from the iRacing member site",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuhldata/ir-cookie-scraper.git"
+  },
+  "keywords": [
+    "iRacing",
+    "cookie"
+  ],
+  "author": "Karl-Heinz Wallwitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuhldata/ir-cookie-scraper/issues"
+  },
+  "homepage": "https://kuhldata.com"
+}
