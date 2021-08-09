@@ -1,5 +1,7 @@
 # ir-cookie-scraper
 
+**Usage at your own risk. there are no tests in place (yet)**
+
 This package scrapes a cookie from the iRacing member website for you using (puppeteer)[https://github.com/puppeteer/puppeteer].
 
 ## how to install
